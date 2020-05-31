@@ -1,0 +1,2 @@
+1. http传输是无状态的,在项目开发中多采用token的方式进行记录.
+其中MyJWT.py文件主要记录基于JWT规范生成token,解析验证token,以及优化token
